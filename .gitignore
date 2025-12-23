@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.cog
+.ipynb_checkpoints
+
+stable-diffusion-3.5-medium
+
+# Virtual environments
+.venv
+
+# Environment variables
+.env
