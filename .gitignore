@@ -9,6 +9,7 @@ wheels/
 .ipynb_checkpoints
 
 stable-diffusion-3.5-medium
+stable-diffusion-tiny
 
 # Virtual environments
 .venv
